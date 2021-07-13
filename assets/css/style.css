@@ -498,6 +498,14 @@ section {
   margin-bottom: 30px;
 }
 
+.portfolio .portfolio-wrap {
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(131, 129, 129);
+  
+}
+
+
 .portfolio #portfolio-flters {
   padding: 0;
   margin: 0 auto 35px auto;
