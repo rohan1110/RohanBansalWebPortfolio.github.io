@@ -579,6 +579,9 @@ section {
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
   background: rgba(20, 157, 221, 0.95);
+  border-style: solid;
+  border-width: 0.2px;
+  border-color: #040b14;
 }
 
 .portfolio .portfolio-wrap .portfolio-links a + a {
@@ -596,6 +599,7 @@ section {
 .portfolio .portfolio-wrap:hover .portfolio-links {
   opacity: 1;
   bottom: 0;
+ 
 }
 
 .overlay {
